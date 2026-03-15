@@ -1,0 +1,19 @@
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/contents.xcworkspacedata
+DerivedData/
+.DS_Store
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Environment
+.env
+*.xcconfig.local
+
+# SwiftData / SQLite (local only)
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
